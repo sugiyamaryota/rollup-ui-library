@@ -1,7 +1,11 @@
 {
-  "name": "@super_rare/rollup-ui-library",
+  "name": "@sugiyamaryota/rollup-ui-library",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/sugiyamaryota"
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sugiyamaryota/rollup-ui-library.git"
   },
   "version": "0.0.1",
   "description": "",
