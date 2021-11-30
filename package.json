@@ -1,13 +1,13 @@
 {
   "name": "@sugiyamaryota/rollup-ui-library",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/sugiyamaryota/rollup-ui-library.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "scripts": {
     "rollup": "rollup -c"
