@@ -1,10 +1,17 @@
 {
   "name": "@sugiyamaryota/rollup-ui-library",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "",
   "scripts": {
     "rollup": "rollup -c"
   },
+  "repository": {
+		"type": "git",
+		"url": "git://github.com/sugiyamaryota/rollup-ui-library.git"
+	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/sugiyamaryota"
+	},
   "author": "sugiyamaryota",
   "license": "ISC",
   "devDependencies": {
